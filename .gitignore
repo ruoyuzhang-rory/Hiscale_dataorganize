@@ -1,0 +1,23 @@
+# Claude Code local files
+.claude/
+
+# Raw data folders
+FIMS/
+hubbe-aimms/
+matthews-cdp/
+mei-ccn/
+mei-cpc/
+mei-cpc_cvi/
+mei-merged/
+
+# Generated processed data
+organized/flight_days/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db

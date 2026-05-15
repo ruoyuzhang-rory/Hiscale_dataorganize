@@ -1,0 +1,14 @@
+name: hiscale-aci
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - matplotlib
+  - jupyter
+  - pip
+  - pip:
+      - icartt
